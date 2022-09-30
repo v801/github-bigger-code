@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           github bigger code
+@namespace      github.com/v801/github-bigger-code
+@version        1.0.0
+@description    github code font size is too dang small!
+@author         v801
+==/UserStyle== */
+@-moz-document domain("github.com") {
+    .blob-code-inner {
+        font-size: 16px;
+    }
+}
